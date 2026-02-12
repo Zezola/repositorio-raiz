@@ -1,0 +1,3 @@
+[submodule "repo-submodulo-1"]
+	path = repo-submodulo-1
+	url = git@github.com:Zezola/repo-submodulo-1.git
